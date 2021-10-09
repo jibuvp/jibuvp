@@ -14,11 +14,11 @@ My name is Jibu Varghese Philip and I'm a Software Development Engineer in Test.
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibuvp&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<a href="https://github.com/jibuvp/jibuvp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibuvp&count_private=true&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+<a href="https://github.com/jibuvp/jibuvp">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jibuvp&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jibu's GitHub Stats" />
 </a>
 <!--
