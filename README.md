@@ -11,7 +11,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/jibuvp/jibuvp/master/Icons/wave.gif" width="30px">
 
 My name is Jibu Varghese Philip and I'm a Software Development Engineer in Test. Currently, I'm learning more about Machine Learning and Data Science.
-
+<!--
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/jibuvp/jibuvp">
@@ -21,7 +21,7 @@ My name is Jibu Varghese Philip and I'm a Software Development Engineer in Test.
 <a href="https://github.com/jibuvp/jibuvp">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jibuvp&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jibu's GitHub Stats" />
 </a>
-<!--
+
 <a href="https://github.com/MartinHeinz/python-project-blueprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
@@ -34,23 +34,23 @@ My name is Jibu Varghese Philip and I'm a Software Development Engineer in Test.
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
-
+<!--
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
+-->
 <!-- icons without padding -->
-
+<!--
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/jibuvp/jibuvp/master/Icons/linkedin-3-16.png (LinkedIn icon without padding)
-
+-->
 
 <!-- links to your social media accounts -->
-
+<!--
 [1]: https://twitter.com/imjvp
 [2]: https://github.com/jibuvp
 [3]: https://www.linkedin.com/in/jibuvarghesephilip/
-
+-->
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
