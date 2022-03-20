@@ -10,7 +10,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/jibuvp/jibuvp/master/Icons/wave.gif" width="30px">
 
-My name is Jibu Varghese Philip and I'm a Software Development Engineer in Test. Currently, I'm learning more about Machine Learning and Data Science.
+My name is Jibu Varghese Philip and I'm a Software Developer. Currently, I'm learning more about Machine Learning and Data Science.
 <!--
 ## &#x1f4c8; GitHub Stats
 
